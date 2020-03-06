@@ -1,0 +1,22 @@
+.SYSL {
+    width: 100%;
+    background-color: white;
+}
+
+.HeaderBar {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.HeaderBar a {
+    color: white;
+    text-decoration: none;
+}
+
+.HeaderBar nav a {
+    display: inline-block;
+    padding: 1em;
+}
+
