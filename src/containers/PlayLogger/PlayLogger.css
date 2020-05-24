@@ -1,0 +1,16 @@
+.ChoosePlayer, .ChooseEvent {
+margin-bottom: 1em;
+}
+
+.PlayerOption, .EventOption {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0.5em;
+}
+
+.Icon {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-indent: -9999px;
+}
